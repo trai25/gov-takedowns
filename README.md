@@ -1,5 +1,5 @@
 #### What is this?
-From time to time, GitHub receives requests from governments to remove content that has been declared unlawful in their local jurisdiction. Although we may not always agree with those laws, we may need to block content if we receive a complete request from a government official so that our users in that jurisdiction may continue to have access to GitHub to collaborate and build software.
+From time to time, GitHub receives requests from governments to remove content that has been declared unlawful in their local jurisdiction. Although we may not always agree with those laws, we may need to block content if we receive a complete request from a government official so that our users in that jurisdiction may continue to have access to GitHub to collaborate and build software. This repository contains official government requests which led to content removal based on local law.
 
 #### What is a complete government takedown request?
 To count as a complete request, a request or notice must
@@ -22,7 +22,7 @@ We are concerned about Internet censorship, and believe that transparency on a s
 It means that we received the notice on the indicated date. It does *not* mean that the content was unlawful or wrong. It does *not* mean that the user identified in the notice has done anything wrong. We don't make or imply any judgment about the merit of the claims they make. We post these notices and requests only for informational purposes.
 
 #### Transparency reporting
-In addition to posting government takedown notices in this repository, we report on them in our transparency report. We also track and report in our transparency report on government takedowns based on violations of GitHub's Terms of Service. We process those violations as we would process a Terms of Service violation reported by anyone else.
+In addition to posting government takedown notices which led to content removal in this repository, we report on them in our [Transparency Center](https://transparencycenter.github.com/government/). We also track and report government takedowns which were processed based on violations of GitHub's Terms of Service. We process those violations as we would process a Terms of Service violation reported by anyone else.
 
 #### Contributing
 The purpose of this repository is to publicly post notices that result in GitHub blocking content that a government notifies us is illegal. GitHub created this repository for transparency with our community when we block content in response to a complete government takedown notice. We publicly post those notices, unchanged (other than redactions of personal information), because we are concerned about Internet censorship, and believe that transparency on a specific and ongoing level is essential to good governance.
